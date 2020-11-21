@@ -1,0 +1,41 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://user-images.githubusercontent.com/68732766/99308462-fb4d9a00-2825-11eb-80d0-a62173fb2967.png",
+        "url_png_logo": "https://user-images.githubusercontent.com/68732766/99308608-33ed7380-2826-11eb-93dd-07e6474b5d46.png",
+        "location": "Virginia, USA",
+        "social": {
+            "twitter_handle": "bloc_ki",
+            "telegram_handle": "kibloc_community",
+            "facebook_handle": "groups/kiblocstakepool",
+            "youtube_handle": "thekiblocshow",
+            "twitch_handle": "",
+            "discord_handle": "invite/UZZPb8UKYG",
+            "github_handle": "kibloc"
+        },
+        "company": {
+            "name": "KiBloc",
+            "addr": "",
+            "city": "",
+            "country": "USA",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "Dr. Shweta, the host of 'The KiBloc Show' youtube podcast and a Cardano community member since 2017, is the stake pool operator for KiBloc Stakepools [KIBC1] & [KIBC2]. She likes to educate and help people in exploring the wild world of blockchain and Cardano by using social media platforms and her podcast show on Youtube.",
+            "server": "High performance Bare Metal AMD 8 Core 16 Thread Processor, 32GB RAM, 500GB PCIE 4.0 NVME (Primary) and 2 TB Backup Storage with low latency, optimal connectivity and 99.9% up time",
+            "company": "KiBloc"
+        },
+        "rss": ""
+    },
+    "my-pool-ids": {
+        "0": "7c50cd5f07e18ab673d42f9353bf49e9059230735043189e6d12d1fd",
+        "1": "3448894f1507bb66d7a60dc225fce74f0f650d7a5f0dcc407bbe7cb6"
+    },
+    "when-satured-then-recommend": {
+        "0": "7c50cd5f07e18ab673d42f9353bf49e9059230735043189e6d12d1fd",
+        "1": "3448894f1507bb66d7a60dc225fce74f0f650d7a5f0dcc407bbe7cb6"
+    },
+    "telegram-admin-handle": {
+        "0": "Kibloc"
+    }
+}
